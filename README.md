@@ -1,1 +1,0 @@
-# weshareshare-frontend
